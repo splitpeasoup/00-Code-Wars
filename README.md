@@ -30,3 +30,17 @@ Each folder should have the name of the challenge. Within each folder, you shoul
   - README.md file with the description of the problem domain from Code Wars, a link to the challenge on Code Wars, and an overview of your process for solving the challenge.
   - Picture of your pseudocode from the whiteboarding exercise.
   - JavaScript file of your solution *after confirming that it passes on Code Wars*. Your TAs will be confirming that your solution passes the tests, so make sure that it is complete before adding it to your repo. Besides, you wouldn't want a potential employer to see your broken code!
+
+
+### First Challenge
+
+1. Sign up for an account at Code Wars.
+1. Join the Code Fellows clan.
+1. Complete [today's Kata.](https://www.codewars.com/kata/fixme-replace-all-dots)
+1. Create a new branch for today's challenge.
+1. Make a new folder in your Code Wars repository on Github. The name of the folder should be the same as the name of today's challenge.
+1. This folder should contain:
+  - A file named "solution.js" which contains the JavaScript solution after confirming that it passes on Code Wars with green passing tests
+  - A README.md which includes the problem domain from Code Wars and a link to the challenge
+1. Make a pull request from your working branch to your master branch.
+1. Submit a link to your PR on Canvas.
